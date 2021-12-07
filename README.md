@@ -20,3 +20,9 @@ The Custom Stradegy used:
 ### The VWAP line over a Bank NIFTY on day one of the dataset 
 
 ![image](https://github.com/SanjayShetty01/Backtesting/blob/main/plots/plot1.png)
+
+
+### The BUY and SELL signals ploted on the dataset
+
+![image](https://github.com/SanjayShetty01/Backtesting/blob/main/plots/plot.png)
+
