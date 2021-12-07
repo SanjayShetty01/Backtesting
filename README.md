@@ -17,4 +17,6 @@ The Custom Stradegy used:
 *Please do note that this is a random stradegy I assumed with an intention of improving my coding skills rather than improving my trading skills*
 
 
+The VWAP line over a Bank NIFTY on day one of the dataset 
 
+![image](https://github.com/SanjayShetty01/Backtesting/blob/main/plots/plot1.png)
