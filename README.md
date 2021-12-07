@@ -2,6 +2,8 @@
 
 The main objective of the project is to familarise myself with coding a backtest using a custom stradegy in [Bank Nifty Index](https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-bank) 
 
+The code used for the projects can be found in the [colab notebook](https://github.com/SanjayShetty01/Backtesting/blob/main/Backtesting.ipynb) and the [data](https://github.com/SanjayShetty01/Backtesting/blob/main/BankNiftyFutures_Data5Min.xlsx) used is in xlsx format. 
+
 
 The Custom Stradegy used:
 
@@ -15,6 +17,7 @@ The Custom Stradegy used:
 
 
 *Please do note that this is a random stradegy I assumed with an intention of improving my coding skills rather than improving my trading skills*
+
 
 
 ### The VWAP line over a Bank NIFTY on day one of the dataset 
